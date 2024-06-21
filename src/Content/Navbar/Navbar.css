@@ -1,0 +1,23 @@
+.nav_img1{
+    margin-left: 45px;
+    margin-right: 20px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+
+}
+
+.nav_text{
+    font-size: x-large;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'FontAwesome';
+}
+
+.nav1{
+    margin-top: 68px;
+}
+
+.nav_color{
+    /* background-color: rgb(237, 237, 237); */
+}

@@ -1,0 +1,70 @@
+body{
+    background-color: currentColor;
+}
+
+.main_top{
+    color: orange;
+}
+
+.main-icon1{
+    transform: scale(2);
+    display: flex;
+    text-decoration: none;
+    position: absolute;
+    top: 1.5rem;
+    color: white;
+    left: 42rem;
+    width: 19px;
+    height: 19px;
+    background-color: dodgerblue;
+    border: 4px solid dodgerblue;
+    border-radius: 50%;
+}
+
+.main-icon2{
+    transform: scale(2);
+    display: flex;
+    text-decoration: none;
+    position: absolute;
+    top: 1.5rem;
+    color: white;
+    left: 46rem;
+    width: 19px;
+    height: 21px;
+    background-color: deeppink;
+    border: 3.1px solid deeppink;
+    border-radius: 50%
+}
+
+.main-icon3{
+    transform: scale(2);
+    display: flex;
+    text-decoration: none;
+    position: absolute;
+    top: 1.5rem;
+    color: white;
+    left: 50rem;
+    width: 19px;
+    height: 19px;
+    background-color: red;
+    border: 2.1px solid red;
+    border-radius: 50%;
+}
+
+.main_back{
+    /* padding: 10px; */
+    height: 34rem;
+    width: 94.95rem;
+}
+
+.main_img{
+    height: 42rem;
+    width: 43rem;
+}
+
+.main_cont{
+    padding-top: 10px;
+    padding: 10px;
+    padding-left: 19rem;
+    padding-right: 23rem;
+}
